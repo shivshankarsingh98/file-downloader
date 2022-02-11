@@ -12,7 +12,8 @@ Steps to run the app
 3) Download the dependency
    `go mod download`
 
-4) Add the protocol in config.yaml file , for which you want this instance to download the files
+4) Add the protocol in config.yaml file , for which you want this instance to download the files.
+
    Example yaml file: [Protocol config file](config.yaml)
 
 5) Run the app
