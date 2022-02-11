@@ -13,7 +13,7 @@ Steps to run the app
        `go mod download`
             
 4) Add the protocol in config.yaml file , for which you want this instance to download the files
-       Example yaml file: ![Alt text](config.yaml "Protocol config file")
+       Example yaml file: ![Protocol config file](config.yaml)
             
 5) run the app
     `cd cmd`
