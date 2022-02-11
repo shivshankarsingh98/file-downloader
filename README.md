@@ -18,5 +18,6 @@ Steps to run the app
 
 5) Run the app
    `cd cmd`
+   
    `go run main.go`
     
