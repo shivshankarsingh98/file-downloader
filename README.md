@@ -17,6 +17,7 @@ Steps to run the app
    Example yaml file: [Protocol config file](config.yaml)
 
 5) Run the app
+
    `cd cmd`
    
    `go run main.go`
